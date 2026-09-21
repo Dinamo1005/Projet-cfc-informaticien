@@ -1,5 +1,4 @@
-
-**Mes projets de formation – CFC informaticien (GIT)
+# Projets – CFC informaticien
 
 Jean-Pierre Gallego Santillan · Apprenti informaticien CFC au Geneva Institute of Technology (depuis septembre 2026)
 
@@ -16,4 +15,3 @@ Jean-Pierre Gallego Santillan · Apprenti informaticien CFC au Geneva Institute 
 ## Contact
 
 - LinkedIn : [jean-pierre-gallego-santillan](https://www.linkedin.com/in/jean-pierre-gallego-santillan-6b4701433)
-- 

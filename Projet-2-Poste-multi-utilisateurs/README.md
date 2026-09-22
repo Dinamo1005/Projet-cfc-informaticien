@@ -1,4 +1,4 @@
-# Projet 2 — Poste multi-utilisateurs pour salle informatique
+# Projet  — Poste multi-utilisateurs pour salle informatique
 
 > **Jean-Pierre Gallego Santillan** · IT Essentials ICT-187 · Classe E1A · Septembre 2026
 

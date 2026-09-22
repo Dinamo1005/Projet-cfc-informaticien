@@ -1,4 +1,4 @@
-# Projet 3 — Migration et sauvegarde d'un poste existant
+# Projet — Migration et sauvegarde d'un poste existant
 
 **Réinstallation complète d'un poste Windows 10 Pro sans perte de données**
 
